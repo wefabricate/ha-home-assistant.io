@@ -21,7 +21,7 @@ The **Weheat** {% term integration %} allows you to display your [Weheat](https:
 
 ## Supported devices
 
-All Weheat heat pumps are supported.
+The Blackbird, Sparrow and Flint heat pumps are supported.
 
 ## Prerequisites
 
@@ -71,7 +71,7 @@ The integration is {% term polling %} and retrieves data every 30 seconds from t
 
 ## Actions
 
-This integration does not provide additional actions.
+This integration does not provide any actions.
 
 ## Known limitations
 
@@ -79,7 +79,7 @@ There is currently no way to control the heat pump via this integration.
 
 ## Troubleshooting
 
-In case no devices are discovered, make sure that you can login to the [Weheat portal](https://portal.weheat.nl) and the correct heat pumps are visible there. If they are available there, contact Weheat support.
+In case no devices are discovered, make sure that you can log in to the [Weheat portal](https://portal.weheat.nl) and the correct heat pumps are visible there. If they are available there, contact Weheat support.
 
 ## Remove integration
 
